@@ -1,0 +1,1 @@
+#Credit card management system designed using Python with tkinter and phpMyAdmin SQL. This holds all your card information on the server and retrieves accordingly. Contains two menus one for the customer and other for the bank employee with functions like generate pin and check remaining balance.
